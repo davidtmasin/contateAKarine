@@ -150,9 +150,9 @@ body {
   height: 86vh;
 }
 
-.revista embed {
+.revista object {
   box-sizing: border-box;
-  min-width: 70%;
+  min-width: 90%;
   min-height: 80vh;
   display: block;
   margin-top: 2.5%;
