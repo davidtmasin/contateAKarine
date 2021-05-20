@@ -169,6 +169,11 @@ object p{
     margin-top: 10%;
 }
 
-.welcome .paragrafo{
+.welcome .paragrafo, .welcome h3{
     font-size: .885rem;
+}
+
+.welcome h3{
+    margin: 0;
+    padding: 0;
 }
